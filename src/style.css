@@ -1,0 +1,26 @@
+#main-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin: 10px;
+}
+
+#inputs {
+  display: flex;
+  flex-direction: column;
+}
+
+#input-container {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 10px;
+}
+
+#calculated-payment {
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+#input-container input {
+  width: 200px;
+}
